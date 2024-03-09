@@ -1,4 +1,4 @@
-# `console.log('Hi there! 👋')`
+# `console.log('Hi there!👋')`
 I'm Vyacheslav, and I'm a junior frontend developer.
 
 # 💻 Tech Stack:
